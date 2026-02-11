@@ -1,16 +1,14 @@
-## Hi there 👋
+#About me 
 
-<!--
-**francisco-matias/francisco-matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Seeking a first professional opportunity in a challenging technical environment to apply and further develop my skills.
+- Received the MSC in Eletrical and Computer Engineering in 2025, from Instituto Superior Técnico, Portugal.
+- Interested in Telecommunications, Networks and Communication Systems, Electronic Systems, Estimation and Control, Machine Learning and Artificial Intelligence.
 
-Here are some ideas to get you started:
+#Analytics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarafuzgaspar&layout=compact&theme=dark)
+
+
+#Contact
+
+You can reach me at francisco.m.matias@tecnico.ulisboa.pt
