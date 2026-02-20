@@ -5,7 +5,7 @@
 - Interested in **Telecommunications** | **Network Programming** | **Distributed Systems** | **Integration & Commissioning**
 
 ## Languages & Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-matias&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-matias&layout=compact&hide_border=true&theme=default)
 
 # Contact
 
