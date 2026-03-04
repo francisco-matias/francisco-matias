@@ -2,7 +2,6 @@
 
 - Seeking a professional opportunity in a challenging technical environment to apply and further develop my skills.
 - Received the MSc in Electrical and Computer Engineering in 2025, from Instituto Superior Técnico, Portugal.
-- Interested in **Telecommunications** | **Network Programming** | **Integration & Commissioning**
 
 # Contact
 
